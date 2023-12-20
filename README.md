@@ -3,11 +3,10 @@
 Each question is worth 5 points
 
 1. Compare and contrast the following 2 forms:
-
+[Edit Here](https://diy-pwa.dev/~/gh/IfrahKidwai/UX220Final)
 `<form action="http://localhost:3002/send/" method="post"> ... </form>`
 
 `<form action="https://dry-bayou-18746.herokuapp.com/send/" method="post"> ... </form>`
-[Edit Here](https://diy-pwa.dev/~/gh/IfrahKidwai/UX220Final)
 
 Pay special attention to why one or the other won't work on github pages. Write a semantically formatted html file in q1.html that 
 includes doctype, html, head, body, header, footer, main, h1 ("Post action attribute"), h2 ("http://localhost:3002/send/" and 
